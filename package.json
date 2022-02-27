@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/JustForFun020/AnimeProject",
   "name": "tiktok",
   "version": "0.1.0",
   "private": true,
@@ -19,6 +20,8 @@
     "web-vitals": "^2.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
