@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JustForFun020/AnimeProject/static/css/main.59ddaccb.css",
+    "main.js": "/JustForFun020/AnimeProject/static/js/main.bf6d3f6f.js",
+    "static/js/787.1282ab25.chunk.js": "/JustForFun020/AnimeProject/static/js/787.1282ab25.chunk.js",
+    "index.html": "/JustForFun020/AnimeProject/index.html",
+    "main.59ddaccb.css.map": "/JustForFun020/AnimeProject/static/css/main.59ddaccb.css.map",
+    "main.bf6d3f6f.js.map": "/JustForFun020/AnimeProject/static/js/main.bf6d3f6f.js.map",
+    "787.1282ab25.chunk.js.map": "/JustForFun020/AnimeProject/static/js/787.1282ab25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59ddaccb.css",
+    "static/js/main.bf6d3f6f.js"
+  ]
+}
