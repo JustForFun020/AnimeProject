@@ -26,7 +26,7 @@ const data = [
       domestic: "Uchiha",
       speciality: "Hỏa",
       skill: "Thiên Điểu (Chidori), Hỏa Thuật, Susanoo,...",
-      rank: "Dark Hokage",
+      rank: "Genin",
       img: "./image/sasuke.jfif",
       specical:
         "Sở hữu Vạn Hoa Đồng Tả Luân Nhãn (Mangekyo Sharingan) và mắt trái là Luân Hồi Nhãn (Rinnegan)",
@@ -43,7 +43,7 @@ const data = [
       domestic: "Uchiha",
       speciality: "Hỏa",
       skill: "Ảo Thuật (Tsukuyomi, Izanagi), Ameterasu, Susanoo,...",
-      rank: "Thành Viên Akatsuki",
+      rank: "Jonin",
       img: "./image/itachi.jfif",
       specical:
         "Sở hữu Vạn Hoa Đồng Tả Luân Nhãn (Mangekyo Sharingan) và sử dụng được cấm thuật Izanagi",
